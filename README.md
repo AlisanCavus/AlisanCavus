@@ -1,79 +1,22 @@
-# Alisan / Trainee @ [![Becode](https://i.ibb.co/995Tk7H/becode.png)](https://becode.org/learn/junior-web-developer/ "Becode")
-
-****
-
-Hi there. I am Alisan Cavus. I`ve just started my web developer journey.There will be tons of mistakes, because we're learning. And last but not least: I adore cats.
-
-###### **So, Lets fill the internet with cats.**
-
-![Cats](https://media.wired.com/photos/59328ca34dc9b45ccec5edf2/191:100/w_1280,c_limit/SAFETY_CAT_0.gif)
-
-****
-
-##### Here, There are some skills I want to show you:
-
-- Excellent memory for useless things.
-- Navigate myself as TomTom: 
-  >   Zero casualty on getting lost
-- Undeniable craftmenship for renovations.
-- Cook like a Pro.
-
-****
-
-#####  "My Precious.":
-
--  Foods
--  My Cat.Obviously. Meet with him:
-    >  [![Instagram](https://i.ibb.co/1sznSFF/inst.png)](https://www.instagram.com/levitanthesiberian/ "Levitan") 
--   Being on the road!
-
-*****
-
-##### Okay! Lets talk some serious stuff...
-![SeriousStuff](https://c.tenor.com/m3SBhmatvbMAAAAM/seriously-seriously-cat.gif)
-
-###### I have 7 months in front of me with [Becode](https://becode.org/learn/junior-web-developer/). In that time: 
-- I want to learn as much as I can as a web developer:
-    *  HTML, CSS is crucial.
-    *  Some design patterns are beneficial.
-    *  JavaScript, NodeJs
-- Main goal is getting hands-on experience.
-
-
-*****
-
-
-##### "Fear kills more dreams than failure."
+## Hi, I am Alisan. I am a junior Frontend Developer.
 
 
 
+### Tools that I can play with:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
+  -------
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlisanCavus&show_icons=true&theme=tokyonight)
+
+-----
+
+### Tools that I want to play with: 
 
 
-****
-
-#### I am looking forward to:
-- Being able to understand the source of a problem,
-- Solving smoothly the problems that I will encounter,
-- Understanding the fundamentals,
-- Getting experience,
-- Being part of a group.
-
-****
-
-
-#### As part of a team member I expect:
-- Being kind,
-- Communicating effectively,
-
-
-![Hello](https://media4.giphy.com/media/13CoXDiaCcCoyk/giphy.gif?cid=ecf05e477zstyygotekzb4t27ik2gkt7cm9sfcqb9k7z23pp&rid=giphy.gif&ct=g)
-
-
- 
- 
-
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 
 
