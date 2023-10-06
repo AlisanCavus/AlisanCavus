@@ -1,4 +1,4 @@
-## Hi, I am Alisan. I am a junior Front-end Developer.
+## Hi, I am Alisan. I am a junior Software Developer.
 
 
 
